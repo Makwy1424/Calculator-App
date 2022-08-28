@@ -1,4 +1,4 @@
-###CALCULATOR APP
+### CALCULATOR APP
 
 A calculator is a device that performs arithmetic operations on numbers.<br/>
 Basic calculators can do only addition, subtraction, multiplication<br/>
